@@ -20,6 +20,7 @@
 ## **Ход работы:**
 ### Часть 1
 
+![image](https://github.com/user-attachments/assets/f421f50e-09e5-4360-8288-d4dfc573f847)
 
 ### Часть 2
 
