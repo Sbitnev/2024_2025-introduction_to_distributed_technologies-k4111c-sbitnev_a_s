@@ -37,9 +37,22 @@
 
 ### Создание пода
 
-![image](https://github.com/user-attachments/assets/f421f50e-09e5-4360-8288-d4dfc573f847)
+![image](https://github.com/user-attachments/assets/c175e161-3c40-4be2-bfa4-4de65b30d3f4)
+
+![image](https://github.com/user-attachments/assets/c019f05b-c6b9-4959-a9b6-72f131c28582)
+
+![image](https://github.com/user-attachments/assets/3b48b14f-6c63-4ac7-a304-38a7d1d979aa)
+
+![image](https://github.com/user-attachments/assets/d999daf3-2402-4a21-a4a2-9cb4772877f9)
+
+![image](https://github.com/user-attachments/assets/ab2ad3bf-409c-4ffe-a125-be18526fdd41)
 
 
+![image](https://github.com/user-attachments/assets/3ab99c3d-e5c8-4f51-b03f-67623f9d9b59)
+
+![image](https://github.com/user-attachments/assets/2bd40ad6-991a-4599-a8a7-ac618021e45b)
+
+![image](https://github.com/user-attachments/assets/76305632-65f3-4d5d-a751-3740b905d613)
 
 
 ## **Вывод:** 
