@@ -98,7 +98,8 @@ Minikube прокинет порт компьютера в контейнер и
 
 Схема организации контейеров и сервисов.
 
-![image](https://github.com/user-attachments/assets/33750c89-10f4-4076-8118-bbba931feeaf)
+![image](https://github.com/user-attachments/assets/8feb3c4c-4373-4886-82cd-d3b7097eff0c)
+
 
 
 Ответы на вопросы, скриншоты c результатами работы предствалены в отчете.
