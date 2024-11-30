@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: itdt-rs
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: itdt
+  template:
+    metadata:
+      labels:
+        app: itdt
+    spec:
+      containers:
+      - name: contained-frontend
+        image: ifilyaninitmo/itdt-contained-frontend:master
+        envFrom:
+          - configMapRef:
+              name: itdt-cm
+        resources:
+          limits:
+            memory: "512Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 3000

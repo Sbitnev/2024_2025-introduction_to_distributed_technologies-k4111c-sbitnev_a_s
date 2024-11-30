@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: itdt-svc
+spec:
+  type: ClusterIP
+  selector:
+    app: itdt
+  ports:
+  - port: 3000
+    targetPort: 3000
