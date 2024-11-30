@@ -18,13 +18,6 @@
 
 
 ## **Ход работы:**
-### Часть 1
-
-
-### Часть 2
-
-
-### Часть 2
 
 Cоздадим манифест deployment с 2 репликами контейнера ifilyaninitmo/itdt-contained-frontend:master и передадим переменные в эти реплики: REACT_APP_USERNAME, REACT_APP_COMPANY_NAME.
 
