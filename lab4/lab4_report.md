@@ -244,6 +244,10 @@ kubectl exec -it lab4-app-gk49j -- ping 192.168.2.1
 
 ![image](https://github.com/user-attachments/assets/67b88e58-3c12-4710-abb2-fd0bdcba6806)
 
+### Схема организации контейеров и сервисов
+
+![image](https://github.com/user-attachments/assets/0b4da23a-9ae2-4db8-9261-40763af04d2c)
+
 
 ## **Вывод:** 
 
